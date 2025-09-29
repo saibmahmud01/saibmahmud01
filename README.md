@@ -1,3 +1,6 @@
+
+<img src="https://avatars.githubusercontent.com/u/235172307?v=4" alt="Saib Mahmud" width="120" />
+
 # Hi, I'm Saib Mahmud 👋
 
 I'm currently studying Computer Science and Engineering at United International University. My academic journey has introduced me to programming with C, and I'm actively learning Python for data analysis, aiming to build a future in data science. 🚀
@@ -13,7 +16,7 @@ I'm currently studying Computer Science and Engineering at United International 
 
 - 🖥️ C programming (academic)
 - 🐍 Python (beginner, focused on data analysis)
-- 🧩 Problem-solving and logical thinking
+- 🧩 Problem solving and logical thinking
 
 ## Goals
 

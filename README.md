@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Saib Mahmud
 
-<!--
-**saibmahmud01/saibmahmud01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science and Engineering at United International University. My academic journey has introduced me to programming with C, and I'm actively learning Python for data analysis, aiming to build a future in data science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Undergraduate student in CSE
+- Learning C and Python
+- Interested in data analysis and data science
+- United International University
+
+## Skills
+
+- C programming (academic)
+- Python (beginner, focused on data analysis)
+- Problem-solving and logical thinking
+
+## Goals
+
+- Master Python for data science
+- Explore machine learning and AI
+- Contribute to open-source projects
+
+## Connect
+
+Feel free to reach out for collaboration or discussion about programming, data science, or academic topics.
